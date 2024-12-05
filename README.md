@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1P6_h-zbtGqMG9cQuaVewJj5IS1s2XSPH/view?usp=sharing)  
 
-- ⚡ Fun fact: I once spent an entire hour debugging why my code wasn't updating, only to realize I had forgotten to turn on autosave in VS Code. Lesson learned: always check your settings before you start panicking!
+
 
 ---
 
