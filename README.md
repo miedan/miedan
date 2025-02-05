@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miedan Bizuayehu</h1>  
 <h3 align="center">A passionate full stack developer</h3>  
 
-- 🔭 I’m currently working on [Bazar](https://bazar.a2sv.org/home)  
+- 🔭 I’m currently working on [Afrochat](https://afrochat.app)  
 
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence  
 
