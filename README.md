@@ -72,11 +72,7 @@
 </p>  
 
 
-<h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=miedan&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miedan&layout=compact&theme=default" alt="Top Langs" />
